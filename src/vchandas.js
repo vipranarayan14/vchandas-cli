@@ -43,7 +43,7 @@
 
         chandasDetails.chandas.examples.forEach((example, index) => {
 
-          log(chalk `{yellow.bold Example ${index + 1}:}`, '\n', example);
+          log(chalk.yellow.bold(`Example ${index + 1}:`), '\n', example);
 
         });
 
