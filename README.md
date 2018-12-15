@@ -29,4 +29,7 @@ Chandas name:
  vidyunmAlA
 Chandas definition:
  mO mO gO gO vidyunmAlA
+Example 1:
+ vidyunmAlAlOlAn bhOgAn muktvA muktau yatnaM kuryAt |
+ dhyAnOtpannaM niHsAmAnyaM saukhyaM bhOktum yadyAkA~NkShEt ||
 ```
