@@ -1,6 +1,6 @@
 {
   "name": "vchandas-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A command line interface for vchandas.",
   "author": "Prasanna Venkatesh T S <vipranarayan14@gmail.com>",
   "license": "MIT",
